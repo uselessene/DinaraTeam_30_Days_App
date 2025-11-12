@@ -1,3 +1,97 @@
 <resources>
-    <string name="app_name">DinaraTeam_30_Days_App</string>
+    <string name="app_name">ПП Календарь - 30 дней</string>
+
+    <!-- Неделя 1: Основы и детокс -->
+    <string name="food1_name">День 1: Овощной бульон</string>
+    <string name="food1_description">Овощной бульон с сельдереем, морковью, луком и зеленью. Идеальное начало для очищения организма.</string>
+
+    <string name="food2_name">День 2: Салат \"Щетка\"</string>
+    <string name="food2_description">Салат из капусты, моркови, свеклы, зелени с лимонным соком. Отлично очищает кишечник.</string>
+
+    <string name="food3_name">День 3: Цитрусовый салат</string>
+    <string name="food3_description">Салат с грейпфрутом и шпинатом, заправка из лимонного сока и имбиря. Богат витамином C.</string>
+
+    <string name="food4_name">День 4: Овсяная каша</string>
+    <string name="food4_description">Овсяная каша на воде с ягодами и ложкой орехов. Источник сложных углеводов и клетчатки.</string>
+
+    <string name="food5_name">День 5: Крем-суп из брокколи</string>
+    <string name="food5_description">Нежный крем-суп из брокколи с нежирными сливками. Богат витаминами и антиоксидантами.</string>
+
+    <string name="food6_name">День 6: Тосты с авокадо</string>
+    <string name="food6_description">Тост из цельнозернового хлеба с авокадо и яйцом-пашот. Источник полезных жиров.</string>
+
+    <string name="food7_name">День 7: Яблоко с творогом</string>
+    <string name="food7_description">Яблоко, запеченное с корицей и творогом. Натуральный десерт без сахара.</string>
+
+    <!-- Неделя 2: Белки и полезные жиры -->
+    <string name="food8_name">День 8: Лосось на пару</string>
+    <string name="food8_description">Лосось на пару с лимоном и укропом. Богат омега-3 жирными кислотами.</string>
+
+    <string name="food9_name">День 9: Чечевичный суп</string>
+    <string name="food9_description">Чечевичный суп с овощами. Отличный источник растительного белка и клетчатки.</string>
+
+    <string name="food10_name">День 10: Салат с киноа</string>
+    <string name="food10_description">Салат с киноа, овощами и ореховой заправкой. Содержит полный набор аминокислот.</string>
+
+    <string name="food11_name">День 11: Куриная грудка</string>
+    <string name="food11_description">Куриная грудка-гриль с салатом из свежих овощей. Диетический источник белка.</string>
+
+    <string name="food12_name">День 12: Творожная запеканка</string>
+    <string name="food12_description">Творожная запеканка без муки с ягодами. Богата кальцием и белком.</string>
+
+    <string name="food13_name">День 13: Омлет с овощами</string>
+    <string name="food13_description">Омлет с 2 яиц с шампиньонами и шпинатом. Идеальный белковый завтрак.</string>
+
+    <string name="food14_name">День 14: Греческий салат</string>
+    <string name="food14_description">Греческий салат с сыром Фета и оливковым маслом. Классика средиземноморской диеты.</string>
+
+    <!-- Неделя 3: Суперфуды и ферментированные продукты -->
+    <string name="food15_name">День 15: Ягодный смузи</string>
+    <string name="food15_description">Смузи из черники, шпината и греческого йогурта. Антиоксидантный коктейль.</string>
+
+    <string name="food16_name">День 16: Окрошка на кефире</string>
+    <string name="food16_description">Окрошка на кефире с куриной грудкой. Пробиотики + белок.</string>
+
+    <string name="food17_name">День 17: Квашеная капуста</string>
+    <string name="food17_description">Салат из квашеной капусты с клюквой и луком. Натуральный источник пробиотиков.</string>
+
+    <string name="food18_name">День 18: Куриное рагу с куркумой</string>
+    <string name="food18_description">Куриное рагу с куркумой, цветной капустой и нутом. Противовоспалительное блюдо.</string>
+
+    <string name="food19_name">День 19: Салат со свеклой</string>
+    <string name="food19_description">Салат из запеченной свеклы с козьим сыром и рукколой. Улучшает пищеварение.</string>
+
+    <string name="food20_name">День 20: Запеченная тыква</string>
+    <string name="food20_description">Запеченная тыква с розмарином и тыквенными семечками. Богата бета-каротином.</string>
+
+    <string name="food21_name">День 21: Баклажаны с чесноком</string>
+    <string name="food21_description">Запеченные баклажаны с чесночно-йогуртовым соусом. Натуральный пребиотик.</string>
+
+    <!-- Неделя 4: Завершение и закрепление -->
+    <string name="food22_name">День 22: Сбалансированный обед</string>
+    <string name="food22_description">Гречка + рыба на пару + салат. Идеальный баланс БЖУ.</string>
+
+    <string name="food23_name">День 23: Батончики-мюсли</string>
+    <string name="food23_description">Домашние батончики-мюсли из овсянки, орехов и меда. Полезный перекус.</string>
+
+    <string name="food24_name">День 24: Зеленый смузи</string>
+    <string name="food24_description">Смузи из киви, шпината, сельдерея и яблока. Витаминный заряд.</string>
+
+    <string name="food25_name">День 25: Овощная запеканка</string>
+    <string name="food25_description">Овощная запеканка с кабачками, перцами и баклажанами. Легкое и сытное блюдо.</string>
+
+    <string name="food26_name">День 26: Индейка с яблоками</string>
+    <string name="food26_description">Грудка индейки тушеная с яблоками. Нежное мясо с фруктовой ноткой.</string>
+
+    <string name="food27_name">День 27: Тыквенный суп</string>
+    <string name="food27_description">Суп из тыквы и моркови с имбирем и куркумой. Согревающий и полезный.</string>
+
+    <string name="food28_name">День 28: Фруктовый салат</string>
+    <string name="food28_description">Салат из апельсинов, граната и груш с мятой. Витаминная бомба.</string>
+
+    <string name="food29_name">День 29: Любимое блюдо</string>
+    <string name="food29_description">Лосось с киноа и салатом. Повторение самого вкусного блюда программы.</string>
+
+    <string name="food30_name">День 30: Чаша Будды</string>
+    <string name="food30_description">\"Чаша Будды\" - основа + белок + овощи + соус. Учимся составлять сбалансированные блюда.</string>
 </resources>
